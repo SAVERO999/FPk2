@@ -1,0 +1,11 @@
+
+streamlit 
+streamlit_option_menu 
+matplotlib
+numpy 
+ipywidgets 
+pandas
+scipy
+scikit-image
+
+
